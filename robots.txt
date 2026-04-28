@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-nrspdb.citysinglescommunity.com/sitemap.xml
